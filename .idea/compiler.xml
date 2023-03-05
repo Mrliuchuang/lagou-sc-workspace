@@ -10,11 +10,12 @@
         <outputRelativeToContentRoot value="true" />
         <module name="lagou-service-common" />
         <module name="lagou-cloud-eureka-server-8762" />
+        <module name="lagou-cloud-hystrix-turbine-9001" />
         <module name="lagou-cloud-eureka-server-8761" />
         <module name="lagou-cloud-hystrix-dashboard-9000" />
         <module name="lagou-service-resume-8080" />
-        <module name="lagou-service-autodeliver" />
         <module name="lagou-service-resume-8081" />
+        <module name="lagou-service-autodeliver" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="11" />
@@ -24,7 +25,8 @@
       <module name="lagou-cloud-eureka-server-8761" options="-parameters" />
       <module name="lagou-cloud-eureka-server-8762" options="-parameters" />
       <module name="lagou-cloud-hystrix-dashboard-9000" options="-parameters" />
-      <module name="lagou-parent" options="-parameters" />
+      <module name="lagou-cloud-hystrix-turbine-9001" options="-parameters" />
+      <module name="lagou-parent" options="" />
       <module name="lagou-service-autodeliver" options="-parameters" />
       <module name="lagou-service-common" options="-parameters" />
       <module name="lagou-service-resume-8080" options="-parameters" />

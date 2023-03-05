@@ -15,6 +15,7 @@
         <module>lagou-cloud-eureka-server-8761</module>
         <module>lagou-cloud-eureka-server-8762</module>
         <module>lagou-cloud-hystrix-dashboard-9000</module>
+        <module>lagou-cloud-hystrix-turbine-9001</module>
     </modules>
 
     <!--⽗⼯程打包⽅式为pom-->
