@@ -14,6 +14,8 @@
         <module name="lagou-cloud-eureka-server-8761" />
         <module name="lagou-cloud-hystrix-dashboard-9000" />
         <module name="lagou-service-resume-8080" />
+        <module name="lagou-cloud-gateway-server-9002" />
+        <module name="lagou-service-autodeliver-8096" />
         <module name="lagou-service-resume-8081" />
         <module name="lagou-service-autodeliver" />
       </profile>
@@ -24,10 +26,12 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="lagou-cloud-eureka-server-8761" options="-parameters" />
       <module name="lagou-cloud-eureka-server-8762" options="-parameters" />
+      <module name="lagou-cloud-gateway-server-9002" options="-parameters" />
       <module name="lagou-cloud-hystrix-dashboard-9000" options="-parameters" />
       <module name="lagou-cloud-hystrix-turbine-9001" options="-parameters" />
       <module name="lagou-parent" options="" />
       <module name="lagou-service-autodeliver" options="-parameters" />
+      <module name="lagou-service-autodeliver-8096" options="-parameters" />
       <module name="lagou-service-common" options="-parameters" />
       <module name="lagou-service-resume-8080" options="-parameters" />
       <module name="lagou-service-resume-8081" options="-parameters" />

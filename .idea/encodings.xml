@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$USER_HOME$/.m2/person-repository/org/springframework/boot/spring-boot-starter-parent/2.1.6.RELEASE/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lagou-cloud-gateway-server-9002/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lagou-cloud-gateway-server-9002/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lagou-parent/lagou-cloud-eureka-server-8761/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lagou-parent/lagou-cloud-eureka-server-8762/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lagou-parent/lagou-cloud-hystrix-dashboard-9000/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lagou-parent/lagou-cloud-hystrix-turbine-9001/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lagou-parent/lagou-service-autodeliver-8096/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lagou-parent/lagou-service-autodeliver/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lagou-parent/lagou-service-common/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lagou-parent/lagou-service-resume-8080/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lagou-parent/lagou-service-resume-8081/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lagou-parent/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lagou-parent/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lagou-service-autodeliver-8096/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lagou-service-autodeliver-8096/src/main/resources" charset="UTF-8" />
   </component>
 </project>

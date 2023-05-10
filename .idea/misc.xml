@@ -5,6 +5,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/lagou-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/lagou-cloud-gateway-server-9002/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

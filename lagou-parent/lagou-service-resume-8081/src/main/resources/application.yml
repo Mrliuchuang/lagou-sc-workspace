@@ -1,13 +1,13 @@
 server:
   port: 8081 # 后期该微服务多实例，端⼝从8080递增（10个以内）
-Spring:
+spring:
   application:
     name: lagou-service-resume
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://121.37.99.179:3306/lagou?useSSL=false&useUnicode=true&characterEncoding=utf8
     username: root
-    password: admin
+    password: aske#@345
   jpa:
     database: MySQL
     show-sql: true
